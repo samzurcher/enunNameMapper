@@ -1,5 +1,5 @@
-Infrastructure to Map between Enums with the same Names
--------------------------------------------------------
+Generics Runtime Information Showcase
+-------------------------------------
 
-Inherit from `AbstractEnumNameMapper` and define the Enums you want to map between. 
-The tests for the concrete enum mappers can inherit from `AbstractEnumNameMapperTest`.
+This is a showcase to play with the information about generic types available at runtime. 
+The JVM isn't using this information - but we can :-).
